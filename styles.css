@@ -1,0 +1,95 @@
+.ma-page-entière{
+    margin: auto;
+    border: 2px solid rgb(5, 98, 121);
+    display: flex;
+    width: 900px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 2px 2px black;
+}
+
+.profile{
+    margin: 25px;
+    
+}
+
+.partie1{
+    border: 2px solid rgb(5, 98, 121);
+    width: 300px;
+    height: 1500px;
+    background-color: rgb(22, 47, 58);
+    
+}
+
+#photo{
+    border-radius:150px;
+    margin: 50px;
+    box-shadow: 3px 3px black;
+    
+}
+
+h3{
+    background-color: rgb(248, 116, 28);
+    border-radius: 50px;
+    text-align: center;
+    padding: 8px;
+    margin-bottom: 15px;
+    width: 235px;
+    margin-left: 30px;
+}
+
+p{
+    color: white;
+    margin-left: 30px;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    margin-left: 30px;
+}
+
+
+.partie2{ 
+    border-color: 1px solid rgb(92, 223, 125);
+    width: 1000px;
+    
+}
+
+.description-profil{
+    color: rgb(8, 8, 8);
+  
+}
+
+.description{
+    margin: 25px;
+}
+
+.experience{
+    background-color: rgb(35, 42, 56);
+    color: cornsilk;
+    border-radius: 0px;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 5px;
+    margin-left: 25px;
+    
+}
+
+.reseau-sociaux{
+    color: cornsilk;
+}
+
+.centre-interet{
+    color: cornsilk;
+}
+
+.langue{
+    color: cornsilk;
+}
+
+.hobbys{
+    color: cornsilk;
+
+}
+
+
